@@ -1,16 +1,46 @@
-## Hi there 👋
+# Brandon Marín
 
-<!--
-**BranMCBJ/BranMCBJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Brandon Marín, estudiante en COVAO, Costa Rica, apasionado por la programación y el desarrollo de software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Lenguajes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lenguajes de programación:**
+
+* Python
+* C++
+* Java
+* C#
+* SQL
+* JavaScript
+
+**Tecnologías y frameworks:**
+
+* Javax Swing
+* Windows Forms
+* .NET
+* Entity Framework
+* MVC Core
+* MySQL
+* SQL Server
+
+**Herramientas y metodologías:**
+
+* Visual Studio
+* Git & GitHub
+* PHPMyAdmin
+* Bootstrap
+* HTML & CSS
+* SCRUM
+* UML
+
+---
+
+## Sobre mí
+
+Estoy enfocado en seguir desarrollando mis habilidades en desarrollo de software, especialmente en aplicaciones de escritorio y bases de datos. Me gusta trabajar en proyectos que me permitan aprender nuevas tecnologías y mejorar la calidad del código mediante buenas prácticas.
+
+---
+
+## Contacto
+
+Puedes contactarme aquí o a través de mis redes sociales para colaborar en proyectos o intercambiar conocimientos.
